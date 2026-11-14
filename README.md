@@ -98,4 +98,3 @@ For the strongest safe test, review the scripts statically and run shell syntax 
 - `scripts/logger.sh`: bounded current log and append-only history logging.
 - `scripts/backup.sh`, `scripts/restore.sh`, `scripts/status.sh`: constrained state operations and diagnostics.
 - `META-INF/...`: explicitly refuses unsupported recovery-mode installation.
-  
